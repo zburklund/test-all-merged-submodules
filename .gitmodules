@@ -1,0 +1,6 @@
+[submodule "CaseUserIDRegex"]
+	path = CaseUserIDRegex
+	url = git@github.com:FPBSchoolOfNursing/CaseUserIDRegex.git
+[submodule "CASP"]
+	path = CASP
+	url = git@github.com:FPBSchoolOfNursing/CASP.git
